@@ -6,7 +6,7 @@
 
 ---
 
-**19 | CS Student | Tech Enthusiast | Building my future, one line of code at a time**
+**19 | CS Student | Tech Enthusiast | Coding my future, line by line.**
 
 ---
 
