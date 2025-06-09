@@ -1,7 +1,7 @@
 # Hi there, I’m Krishnendu (Krishnendu-27) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Krishnendu!;CS+Student+%7C+Tech+Enthusiast;Building+my+future+one+line+of+code+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Krishnendu!;CS+Student+%7C+Tech+Enthusiast;Coding+my+future,+line+by+line." alt="Typing SVG" />
 </p>
 
 ---
