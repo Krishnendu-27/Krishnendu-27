@@ -1,7 +1,7 @@
 
 <!-- Banner section -->
 <p align="center">
-  <img src="krishnendu.png" width="100%" alt="Krishnendu Banner"/>
+  <img src="./Gemini_Generated_Image_n9h9en9h9en9h9en.png" width="100%" alt="Krishnendu Banner"/>
 </p>
 <!-- Animated Typing SVG -->
 <!-- <p align="center">
